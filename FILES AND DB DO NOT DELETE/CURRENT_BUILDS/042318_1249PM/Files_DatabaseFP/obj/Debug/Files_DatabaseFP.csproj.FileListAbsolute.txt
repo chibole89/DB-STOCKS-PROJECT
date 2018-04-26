@@ -1,0 +1,34 @@
+C:\Users\Simon\Documents\Visual Studio 2017\Projects\Files_DatabaseFP\Files_DatabaseFP\bin\Debug\Files_DatabaseFP.exe.config
+C:\Users\Simon\Documents\Visual Studio 2017\Projects\Files_DatabaseFP\Files_DatabaseFP\bin\Debug\Files_DatabaseFP.exe
+C:\Users\Simon\Documents\Visual Studio 2017\Projects\Files_DatabaseFP\Files_DatabaseFP\bin\Debug\Files_DatabaseFP.pdb
+C:\Users\Simon\Documents\Visual Studio 2017\Projects\Files_DatabaseFP\Files_DatabaseFP\obj\Debug\Files_DatabaseFP.csprojResolveAssemblyReference.cache
+C:\Users\Simon\Documents\Visual Studio 2017\Projects\Files_DatabaseFP\Files_DatabaseFP\obj\Debug\Files_DatabaseFP.Properties.Resources.resources
+C:\Users\Simon\Documents\Visual Studio 2017\Projects\Files_DatabaseFP\Files_DatabaseFP\obj\Debug\Files_DatabaseFP.csproj.GenerateResource.Cache
+C:\Users\Simon\Documents\Visual Studio 2017\Projects\Files_DatabaseFP\Files_DatabaseFP\obj\Debug\Files_DatabaseFP.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Documents\Visual Studio 2017\Projects\Files_DatabaseFP\Files_DatabaseFP\obj\Debug\Files_DatabaseFP.exe
+C:\Users\Simon\Documents\Visual Studio 2017\Projects\Files_DatabaseFP\Files_DatabaseFP\obj\Debug\Files_DatabaseFP.pdb
+C:\Users\Simon\Documents\Visual Studio 2017\Projects\Files_DatabaseFP\Files_DatabaseFP\obj\Debug\Files_DatabaseFP.Main_Form.resources
+C:\Users\Simon\Documents\Visual Studio 2017\Projects\Files_DatabaseFP\Files_DatabaseFP\obj\Debug\Files_DatabaseFP.Add_Leg.resources
+C:\Users\Simon\Documents\Visual Studio 2017\Projects\Files_DatabaseFP\Files_DatabaseFP\obj\Debug\Files_DatabaseFP.Client_Login.resources
+C:\Users\Simon\Documents\Visual Studio 2017\Projects\Files_DatabaseFP\Files_DatabaseFP\obj\Debug\Files_DatabaseFP.Add_Edit_Client.resources
+C:\Users\Simon\Documents\Visual Studio 2017\Projects\Files_DatabaseFP\Files_DatabaseFP\obj\Debug\Files_DatabaseFP.Manage_Technique.resources
+C:\Users\Simon\Documents\Visual Studio 2017\Projects\Files_DatabaseFP\Files_DatabaseFP\obj\Debug\Files_DatabaseFP.Add_Technique.resources
+C:\Users\Simon\Documents\Visual Studio 2017\Projects\Files_DatabaseFP\Files_DatabaseFP\obj\Debug\Files_DatabaseFP.Add_Transaction.resources
+C:\Users\Simon\Documents\Visual Studio 2017\Projects\Files_DatabaseFP\Files_DatabaseFP\obj\Debug\Files_DatabaseFP.Edit_Transaction.resources
+C:\Users\pavel\OneDrive\Desktop\DB Project\FILES AND DB DO NOT DELETE\CURRENT_BUILDS\042318_1249PM\Files_DatabaseFP\obj\Debug\Files_DatabaseFP.exe
+C:\Users\pavel\OneDrive\Desktop\DB Project\FILES AND DB DO NOT DELETE\CURRENT_BUILDS\042318_1249PM\Files_DatabaseFP\obj\Debug\Files_DatabaseFP.pdb
+C:\Users\pavel\OneDrive\Desktop\DB Project\FILES AND DB DO NOT DELETE\CURRENT_BUILDS\042318_1249PM\Files_DatabaseFP\bin\Debug\Files_DatabaseFP.exe.config
+C:\Users\pavel\OneDrive\Desktop\DB Project\FILES AND DB DO NOT DELETE\CURRENT_BUILDS\042318_1249PM\Files_DatabaseFP\bin\Debug\Files_DatabaseFP.exe
+C:\Users\pavel\OneDrive\Desktop\DB Project\FILES AND DB DO NOT DELETE\CURRENT_BUILDS\042318_1249PM\Files_DatabaseFP\bin\Debug\Files_DatabaseFP.pdb
+C:\Users\pavel\OneDrive\Desktop\DB Project\FILES AND DB DO NOT DELETE\CURRENT_BUILDS\042318_1249PM\Files_DatabaseFP\obj\Debug\Files_DatabaseFP.csprojResolveAssemblyReference.cache
+C:\Users\pavel\OneDrive\Desktop\DB Project\FILES AND DB DO NOT DELETE\CURRENT_BUILDS\042318_1249PM\Files_DatabaseFP\obj\Debug\Files_DatabaseFP.Add_Transaction.resources
+C:\Users\pavel\OneDrive\Desktop\DB Project\FILES AND DB DO NOT DELETE\CURRENT_BUILDS\042318_1249PM\Files_DatabaseFP\obj\Debug\Files_DatabaseFP.Add_Technique.resources
+C:\Users\pavel\OneDrive\Desktop\DB Project\FILES AND DB DO NOT DELETE\CURRENT_BUILDS\042318_1249PM\Files_DatabaseFP\obj\Debug\Files_DatabaseFP.Edit_Transaction.resources
+C:\Users\pavel\OneDrive\Desktop\DB Project\FILES AND DB DO NOT DELETE\CURRENT_BUILDS\042318_1249PM\Files_DatabaseFP\obj\Debug\Files_DatabaseFP.Manage_Technique.resources
+C:\Users\pavel\OneDrive\Desktop\DB Project\FILES AND DB DO NOT DELETE\CURRENT_BUILDS\042318_1249PM\Files_DatabaseFP\obj\Debug\Files_DatabaseFP.Client_Login.resources
+C:\Users\pavel\OneDrive\Desktop\DB Project\FILES AND DB DO NOT DELETE\CURRENT_BUILDS\042318_1249PM\Files_DatabaseFP\obj\Debug\Files_DatabaseFP.Add_Edit_Client.resources
+C:\Users\pavel\OneDrive\Desktop\DB Project\FILES AND DB DO NOT DELETE\CURRENT_BUILDS\042318_1249PM\Files_DatabaseFP\obj\Debug\Files_DatabaseFP.Add_Leg.resources
+C:\Users\pavel\OneDrive\Desktop\DB Project\FILES AND DB DO NOT DELETE\CURRENT_BUILDS\042318_1249PM\Files_DatabaseFP\obj\Debug\Files_DatabaseFP.Main_Form.resources
+C:\Users\pavel\OneDrive\Desktop\DB Project\FILES AND DB DO NOT DELETE\CURRENT_BUILDS\042318_1249PM\Files_DatabaseFP\obj\Debug\Files_DatabaseFP.Properties.Resources.resources
+C:\Users\pavel\OneDrive\Desktop\DB Project\FILES AND DB DO NOT DELETE\CURRENT_BUILDS\042318_1249PM\Files_DatabaseFP\obj\Debug\Files_DatabaseFP.csproj.GenerateResource.cache
+C:\Users\pavel\OneDrive\Desktop\DB Project\FILES AND DB DO NOT DELETE\CURRENT_BUILDS\042318_1249PM\Files_DatabaseFP\obj\Debug\Files_DatabaseFP.csproj.CoreCompileInputs.cache
