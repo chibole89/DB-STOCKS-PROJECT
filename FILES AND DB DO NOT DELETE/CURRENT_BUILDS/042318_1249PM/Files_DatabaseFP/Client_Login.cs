@@ -16,5 +16,10 @@ namespace Files_DatabaseFP
         {
             InitializeComponent();
         }
+
+        private void Client_Login_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -16,5 +16,10 @@ namespace Files_DatabaseFP
         {
             InitializeComponent();
         }
+
+        private void Edit_Transaction_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

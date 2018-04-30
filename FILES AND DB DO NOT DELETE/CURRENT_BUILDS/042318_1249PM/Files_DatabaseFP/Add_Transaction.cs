@@ -25,29 +25,29 @@ namespace Files_DatabaseFP
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            SqlCommand cmdGetTechniques = sqlDBConnection.CreateCommand();
+            SqlCommand cmdGetTechniques = sqlDBConnection.CreateCommand(); // creates a SQL command  with the below statements
             cmdGetTechniques.CommandText = "SELECT Acronym FROM TECHNIQUE WHERE (client_no = " + clientnum + ")";
             SqlDataReader reader = cmdGetTechniques.ExecuteReader();
 
-            while (reader.Read())
+            while (reader.Read()) // adds items while reader is not EOF
             {
                 cmbTechnique.Items.Add(reader[0].ToString());
             }
             reader.Close();
         }
 
-        private void button3_Click(object sender, EventArgs e)
+        private void button3_Click(object sender, EventArgs e) //button closes
         {
             this.Close();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e) // button creates new instance from object and show dialog
         {
             Add_Leg frm = new Add_Leg();
             frm.Show();
         }
 
-        private void btnAccept_Click(object sender, EventArgs e)
+        private void btnAccept_Click(object sender, EventArgs e) // accept button class
         {
             if (txtSymbol.Text != "" && cmbTechnique.Text != "" && cmbInstType.Text != "" && cmbOrderType.Text != "" && txtQty.Text != "" && txtPrice.Text != "" && txtFees.Text != "")
             {
@@ -119,7 +119,7 @@ namespace Files_DatabaseFP
             this.Close();
         }
 
-        private void cmbOrderType_SelectedIndexChanged(object sender, EventArgs e)
+        private void cmbOrderType_SelectedIndexChanged(object sender, EventArgs e) 
         {
             if ((txtQty.Text != "") && (txtPrice.Text != ""))
             {

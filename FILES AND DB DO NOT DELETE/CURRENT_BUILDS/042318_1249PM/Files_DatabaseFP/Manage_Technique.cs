@@ -16,12 +16,12 @@ namespace Files_DatabaseFP
             InitializeComponent();
         }
 
-        private void Manage_Technique_Load(object sender, EventArgs e)
+        private void Manage_Technique_Load(object sender, EventArgs e) // loads the page
         {
-            Acronym_ComboBox.Items.Clear();
-            techniqueNameList.Clear();
+            Acronym_ComboBox.Items.Clear(); // clears the items
+            techniqueNameList.Clear(); // clears the list
 
-            SqlCommand cmdUpdateTechniqueAcronym = sqlDBConnection.CreateCommand();
+            SqlCommand cmdUpdateTechniqueAcronym = sqlDBConnection.CreateCommand(); // a command is made with the below statements
             cmdUpdateTechniqueAcronym.CommandText = "SELECT Acronym, Name FROM TECHNIQUE WHERE client_no = @client_no";
             cmdUpdateTechniqueAcronym.Parameters.AddWithValue("@client_no", Manage_clientnum);
             SqlDataReader reader = cmdUpdateTechniqueAcronym.ExecuteReader();
@@ -36,12 +36,12 @@ namespace Files_DatabaseFP
             Acronym_ComboBox.Text = Acronym_ComboBox.Items[0].ToString();
         }
 
-        private void ManageTechnique_Cancel_Click(object sender, EventArgs e)
+        private void ManageTechnique_Cancel_Click(object sender, EventArgs e) // manage tech cancel button class 
         {
             this.Close();
         }
 
-        private void ManageTechnique_Add_Click(object sender, EventArgs e)
+        private void ManageTechnique_Add_Click(object sender, EventArgs e) //manage technique button class
         {
             Add_Technique frm = new Add_Technique();
             frm.sqlDBConnection = this.sqlDBConnection;
@@ -51,7 +51,7 @@ namespace Files_DatabaseFP
             Acronym_ComboBox.Text = Acronym_ComboBox.Items[Acronym_ComboBox.Items.Count - 1].ToString();
         }
 
-        private void ManageTechnique_Edit_Click(object sender, EventArgs e)
+        private void ManageTechnique_Edit_Click(object sender, EventArgs e) // manage technique edit class 
         {
             Add_Technique frm = new Add_Technique();
             frm.sqlDBConnection = this.sqlDBConnection;
@@ -65,7 +65,7 @@ namespace Files_DatabaseFP
             Acronym_ComboBox.Text = Acronym_ComboBox.Items[editedIndex].ToString();
         }
 
-        private void ManageTechnique_Remove_Click(object sender, EventArgs e)
+        private void ManageTechnique_Remove_Click(object sender, EventArgs e) // manage technique remove button class
         {
             var result = MessageBox.Show("Are you sure you want to remove this technique?", "Confirm technique removal", MessageBoxButtons.YesNo, MessageBoxIcon.Asterisk);
             if (result == DialogResult.Yes)

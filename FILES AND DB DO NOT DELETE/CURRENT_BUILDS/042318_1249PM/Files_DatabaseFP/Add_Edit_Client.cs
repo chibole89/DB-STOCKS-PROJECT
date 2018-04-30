@@ -19,5 +19,10 @@ namespace Files_DatabaseFP
         {
             InitializeComponent();
         }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -17,9 +17,15 @@ namespace Files_DatabaseFP
         public int transnum, legnum, currentPosSize, newPosSize, currentQty;
         public decimal transAmt, currentPrice, currentStop, currentFees, currentTransAmt;
         public int currentEntryAmt, currentExitAmt;
+
+        private void Add_Leg_Load(object sender, EventArgs e) // loads page
+        {
+
+        }
+
         public string currentOpenDate, currentInstType, currentOrderType, currentEntryDate, currentFilledyDate, currentExpInfo, currentStrikeInfo;
 
-        public Add_Leg()
+        public Add_Leg() 
         {
             InitializeComponent();
         }
